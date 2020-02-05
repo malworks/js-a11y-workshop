@@ -2,7 +2,7 @@
 
 Learn the necessary techniques and tools for building inclusive web applications with JavaScript from Gatsby's Head of Learning Marcy Sutton.
 
-Presented at Frontend Masters! You can view the videos that go along with the workshop material in the [Accessibility in JavaScript Application course](https://frontendmasters.com/courses/javascript-accessibility/).
+Presented at Frontend Masters! You can view the videos that go along with the workshop material in the [Accessibility in JavaScript Application course](https://frontendmasters.com/courses/javascript-accessibility/)..
 
 Some key takeaways:
 
